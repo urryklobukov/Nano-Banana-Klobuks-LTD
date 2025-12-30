@@ -1,0 +1,7 @@
+{
+  "name": "Nano Banana Klobuks LTD",
+  "description": "An application to retouch, restore, and colorize old photos using the Gemini 2.5 Flash Image model. Upload a photo, apply various retouching prompts, compare results, and save the best version.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
